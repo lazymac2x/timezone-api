@@ -1,0 +1,1 @@
+{"name":"timezone-api","version":"1.0.0","description":"Timezone conversion API — current time, convert between zones, meeting planner, world clock.","main":"src/server.js","scripts":{"start":"node src/server.js"},"author":"lazymac2x","license":"MIT","dependencies":{"express":"^4.21.0","cors":"^2.8.5"}}
