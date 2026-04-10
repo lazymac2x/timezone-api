@@ -42,3 +42,5 @@ curl http://localhost:4800/api/v1/zones
 
 ## License
 MIT
+
+<sub>💡 Host your own stack? <a href="https://m.do.co/c/c8c07a9d3273">Get $200 DigitalOcean credit</a> via lazymac referral link.</sub>
